@@ -4,6 +4,10 @@
 * [Best EDA with modular Coding](https://www.kaggle.com/code/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp)
 * [Time Series Analysis](https://www.kaggle.com/code/azminetoushikwasi/time-series-analysis-forecasting)
 * [Mastering Bias-Variance Tradeoff](https://www.kaggle.com/code/azminetoushikwasi/mastering-bias-variance-tradeoff?scriptVersionId=116146951)
+# Geospatial Analysis
+* [Geospatial Analysis-India](https://www.kaggle.com/code/eswarchandt/geospatial-analysis-india)
+* [CREATING MAPS AND VISUALIZING GEOSPATIAL DATA](https://www.kaggle.com/code/muhammetcepi/creating-maps-and-visualizing-geospatial-data)
+* [Geospatial Analysis of Brazilian E-Commerce](https://www.kaggle.com/code/andresionek/geospatial-analysis-of-brazilian-e-commerce)
 # NLP
 * [Getting started with Text Preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing/notebook)<br>
 * [Twitter sentiment Extaction-Analysis,EDA and Model](https://www.kaggle.com/code/tanulsingh077/twitter-sentiment-extaction-analysis-eda-and-model)<br>
