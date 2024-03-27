@@ -4,6 +4,8 @@
 * [Best EDA with modular Coding](https://www.kaggle.com/code/thiagopanini/e-commerce-sentiment-analysis-eda-viz-nlp)
 * [Time Series Analysis](https://www.kaggle.com/code/azminetoushikwasi/time-series-analysis-forecasting)
 * [Mastering Bias-Variance Tradeoff](https://www.kaggle.com/code/azminetoushikwasi/mastering-bias-variance-tradeoff?scriptVersionId=116146951)
+* [Data Science for Financial Markets](https://www.kaggle.com/code/lusfernandotorres/data-science-for-financial-markets)
+* [Walmart Sales Forecasting](https://www.kaggle.com/code/aslanahmedov/walmart-sales-forecasting)
 # Geospatial Analysis
 * [Geospatial Analysis-India](https://www.kaggle.com/code/eswarchandt/geospatial-analysis-india)
 * [CREATING MAPS AND VISUALIZING GEOSPATIAL DATA](https://www.kaggle.com/code/muhammetcepi/creating-maps-and-visualizing-geospatial-data)
