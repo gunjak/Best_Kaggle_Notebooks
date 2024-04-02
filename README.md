@@ -7,6 +7,7 @@
 * [Data Science for Financial Markets](https://www.kaggle.com/code/lusfernandotorres/data-science-for-financial-markets)
 * [Walmart Sales Forecasting](https://www.kaggle.com/code/aslanahmedov/walmart-sales-forecasting)
 * [Retail data analysis](https://www.kaggle.com/code/shubhamsinghgharsele/retail-data-analysis)
+*[A Guide to Handling Missing values in Python] (https://www.kaggle.com/code/parulpandey/a-guide-to-handling-missing-values-in-python)
 # Geospatial Analysis
 * [Geospatial Analysis-India](https://www.kaggle.com/code/eswarchandt/geospatial-analysis-india)
 * [CREATING MAPS AND VISUALIZING GEOSPATIAL DATA](https://www.kaggle.com/code/muhammetcepi/creating-maps-and-visualizing-geospatial-data)
