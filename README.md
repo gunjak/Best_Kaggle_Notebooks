@@ -9,8 +9,8 @@
 * [Retail data analysis](https://www.kaggle.com/code/shubhamsinghgharsele/retail-data-analysis)
 * [A Guide to Handling Missing values in Python](https://www.kaggle.com/code/parulpandey/a-guide-to-handling-missing-values-in-python)
 - # A/B testing
- -[A/B Testing examples: from easy to advanced](https://www.kaggle.com/code/janiezj/a-b-testing-examples-from-easy-to-advanced) 
- -[A/B Testing with two case study](https://www.kaggle.com/code/ouzcanmaden/a-b-testing)
+  [A/B Testing examples: from easy to advanced](https://www.kaggle.com/code/janiezj/a-b-testing-examples-from-easy-to-advanced) <br>
+  [A/B Testing with two case study](https://www.kaggle.com/code/ouzcanmaden/a-b-testing)
 # Geospatial Analysis
 * [Geospatial Analysis-India](https://www.kaggle.com/code/eswarchandt/geospatial-analysis-india)
 * [CREATING MAPS AND VISUALIZING GEOSPATIAL DATA](https://www.kaggle.com/code/muhammetcepi/creating-maps-and-visualizing-geospatial-data)
