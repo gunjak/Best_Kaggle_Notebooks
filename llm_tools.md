@@ -1,6 +1,6 @@
-*ollama
+* ollama
 * lamaindex
-*openai
-*langchain
-*phidata
-*huggingface
+* openai
+* langchain
+* phidata
+* huggingface
