@@ -1,5 +1,5 @@
 *ollama
-*lamaindex
+* lamaindex
 *openai
 *langchain
 *phidata
