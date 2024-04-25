@@ -4,3 +4,4 @@
 * langchain
 * phidata
 * huggingface
+* https://www.getcoralai.com/
