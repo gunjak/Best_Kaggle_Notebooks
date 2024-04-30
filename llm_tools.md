@@ -8,4 +8,28 @@
 
 # LLMs Roadmap
 * ### understanding llm basic
+  - Natural language processing
+  - Deep learning
+  - Transformer
+* ### Explort LLM architecture
+  - BERT GPT XLNET
+* ### Pretraining LLMs
+  - Next Sentence Prediction
+  - Contrastive language Image Pre-training
+* ### Fine Tuning LLMs
+  - Task Specific loss function
+  - Data Augmentation
+  - Early stopping
+* ### Alignment and Post Training
+  - Bias Mitigation
+  - Fairness Evaluation
+  - Explainability
+* ### Evaluating LLMs
+  - Accuracy
+  - Fluency
+  - Relevancy
+* ### Build LLMs Apps
+  - Chat bot
+  - Content Creation
+  - Language Translation
 
