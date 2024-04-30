@@ -7,5 +7,5 @@
 * https://www.getcoralai.com/
 
 # LLMs Roadmap
-* # understanding llm basic
+* ### understanding llm basic
 
