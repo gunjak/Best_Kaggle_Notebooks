@@ -34,5 +34,5 @@
   - Content Creation
   - Language Translation
  * [LLM Scientist Raodmap](https://twitter.com/DataScienceDojo/status/1784721511619743968/photo/1)
-[#  Series of LLM Application blog](https://medium.com/@vipra_singh/building-llm-applications-introduction-part-1-1c90294b155b#4d28)
+ *  [Series of LLM Application blog](https://medium.com/@vipra_singh/building-llm-applications-introduction-part-1-1c90294b155b#4d28)
 
