@@ -32,5 +32,5 @@
   - Chat bot
   - Content Creation
   - Language Translation
- * [Data Scientist Raodmap](https://twitter.com/DataScienceDojo/status/1784721511619743968/photo/1)
+ * [LLM Scientist Raodmap](https://twitter.com/DataScienceDojo/status/1784721511619743968/photo/1)
 
