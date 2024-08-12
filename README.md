@@ -24,3 +24,6 @@
 * [Word Embedding with Beginner to Advance...!👌👌👌](https://www.kaggle.com/code/ashishpatel26/word-embedding-with-beginner-to-advance)<br>
 * [NLP 📝 GloVe, BERT, TF-IDF, LSTM... 📝 Explained](https://www.kaggle.com/code/andreshg/nlp-glove-bert-tf-idf-lstm-explained#8.-BERT)<br>
 * [Deep Learning For NLP: Zero To Transformers & BERT](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert)<br>
+
+# Time Series
+* [Intro to Time Series Forecasting](https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting#Stationarity)
