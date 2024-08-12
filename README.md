@@ -27,3 +27,4 @@
 
 # Time Series
 * [Intro to Time Series Forecasting](https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting#Stationarity)
+* [Tutorial: Time Series Analysis and Forecasting](https://www.kaggle.com/code/satishgunjal/tutorial-time-series-analysis-and-forecasting#Models-Used-For-Time-Series-Forecasting-)
