@@ -1,1 +1,2 @@
--[100-Days-of-NLP](https://github.com/graviraja/100-Days-of-NLP/tree/master)
+- [100-Days-of-NLP](https://github.com/graviraja/100-Days-of-NLP/tree/master)
+- [The Natural Language Processing Community](https://www.nlplanet.org/)
