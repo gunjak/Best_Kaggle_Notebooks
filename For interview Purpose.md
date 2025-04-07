@@ -8,6 +8,7 @@
 - [Guide to Complete Statistical Analysis](https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis)
 - [Ensemble Learning Techniques Tutorial](https://www.kaggle.com/code/pavansanagapati/ensemble-learning-techniques-tutorial)
 - [Clustering methods - comprehensive study](https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study)
+- [corss validation techniques](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/discussion/412788)
 
 
 
