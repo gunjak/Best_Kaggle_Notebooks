@@ -15,7 +15,7 @@
 - [Comprehensive Guide on Feature Selection](https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection)
 - [Tutorial LightGBM + XGBoost + CatBoost Top 11%](https://www.kaggle.com/code/paulrohan2020/tutorial-lightgbm-xgboost-catboost-top-11)
 - [The curse of dimensionality & Dimension reduction](https://www.kaggle.com/code/ohseokkim/the-curse-of-dimensionality-dimension-reduction)
-
+- [A/B Testing](https://www.stratascratch.com/blog/a-comprehensive-statistics-cheat-sheet-for-data-science-interviews/#ab_testing)
 # Algorithms
 - [SVM Classifier Tutorial](https://www.kaggle.com/code/prashant111/svm-classifier-tutorial)
 - [Decision-Tree Classifier Tutorial](https://www.kaggle.com/code/prashant111/decision-tree-classifier-tutorial)
