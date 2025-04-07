@@ -7,7 +7,7 @@
 - [Multicollinearity - detection and remedies](https://www.kaggle.com/code/marcinrutecki/multicollinearity-detection-and-remedies)
 - [Guide to Complete Statistical Analysis](https://www.kaggle.com/code/shivanirana63/guide-to-complete-statistical-analysis)
 - [Ensemble Learning Techniques Tutorial](https://www.kaggle.com/code/pavansanagapati/ensemble-learning-techniques-tutorial)
-- 
+- [Clustering methods - comprehensive study](https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study)
 
 
 
