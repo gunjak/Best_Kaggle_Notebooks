@@ -14,6 +14,7 @@
 - [Effective Hyperparameter Tuning Techniques](https://www.kaggle.com/discussions/general/522846)
 - [Comprehensive Guide on Feature Selection](https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection)
 - [Tutorial LightGBM + XGBoost + CatBoost Top 11%](https://www.kaggle.com/code/paulrohan2020/tutorial-lightgbm-xgboost-catboost-top-11)
+- [The curse of dimensionality & Dimension reduction](https://www.kaggle.com/code/ohseokkim/the-curse-of-dimensionality-dimension-reduction)
 
 # Algorithms
 - [SVM Classifier Tutorial](https://www.kaggle.com/code/prashant111/svm-classifier-tutorial)
