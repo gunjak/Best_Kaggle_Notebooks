@@ -12,6 +12,11 @@
 - [Types of Cross Validation Techniques: Visually Explained](https://www.kaggle.com/discussions/general/523359)
 - [Best techniques and metrics for Imbalanced Dataset](https://www.kaggle.com/code/marcinrutecki/best-techniques-and-metrics-for-imbalanced-dataset)
 - [Effective Hyperparameter Tuning Techniques](https://www.kaggle.com/discussions/general/522846)
+- [Comprehensive Guide on Feature Selection](https://www.kaggle.com/code/prashant111/comprehensive-guide-on-feature-selection)
+
+# Algorithms
+- [SVM Classifier Tutorial](https://www.kaggle.com/code/prashant111/svm-classifier-tutorial)
+- [Decision-Tree Classifier Tutorial](https://www.kaggle.com/code/prashant111/decision-tree-classifier-tutorial)
 
 
 
