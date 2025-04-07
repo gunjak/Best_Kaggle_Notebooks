@@ -10,6 +10,7 @@
 - [Clustering methods - comprehensive study](https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study)
 - [corss validation techniques](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/discussion/412788)
 - [Types of Cross Validation Techniques: Visually Explained](https://www.kaggle.com/discussions/general/523359)
+- [Best techniques and metrics for Imbalanced Dataset](https://www.kaggle.com/code/marcinrutecki/best-techniques-and-metrics-for-imbalanced-dataset)
 
 
 
