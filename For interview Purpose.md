@@ -9,6 +9,7 @@
 - [Ensemble Learning Techniques Tutorial](https://www.kaggle.com/code/pavansanagapati/ensemble-learning-techniques-tutorial)
 - [Clustering methods - comprehensive study](https://www.kaggle.com/code/marcinrutecki/clustering-methods-comprehensive-study)
 - [corss validation techniques](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/discussion/412788)
+- [Types of Cross Validation Techniques: Visually Explained](https://www.kaggle.com/discussions/general/523359)
 
 
 
