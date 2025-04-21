@@ -20,6 +20,7 @@
 # Algorithms
 - [SVM Classifier Tutorial](https://www.kaggle.com/code/prashant111/svm-classifier-tutorial)
 - [Decision-Tree Classifier Tutorial](https://www.kaggle.com/code/prashant111/decision-tree-classifier-tutorial)
+- [Data Science cheatsheets](https://sites.google.com/view/datascience-cheat-sheets)
 
 
 
