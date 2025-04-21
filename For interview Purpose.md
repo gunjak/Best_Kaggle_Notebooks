@@ -24,3 +24,8 @@
 
 
 - [Some topics if you forget](https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle)
+
+# Site to learn for interview
+- [Top deep learning you must know](https://storage.googleapis.com/kaggle-forum-message-attachments/884705/15863/Interview%20Questions.pdf)
+- [VIP cheatsheet](https://storage.googleapis.com/kaggle-forum-message-attachments/884705/15865/super-cheatsheet-deep-learning.pdf)
+- [Standford cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
