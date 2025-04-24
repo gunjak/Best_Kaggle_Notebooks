@@ -1,2 +1,4 @@
 - [100-Days-of-NLP](https://github.com/graviraja/100-Days-of-NLP/tree/master)
 - [The Natural Language Processing Community](https://www.nlplanet.org/)
+- [Deep Learning](https://github.com/rbhatia46/Data-Science-Interview-Resources?tab=readme-ov-file)
+- [Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)
