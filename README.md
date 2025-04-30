@@ -28,6 +28,8 @@
 # Time Series
 * [Intro to Time Series Forecasting](https://www.kaggle.com/code/iamleonie/intro-to-time-series-forecasting#Stationarity)
 * [Tutorial: Time Series Analysis and Forecasting](https://www.kaggle.com/code/satishgunjal/tutorial-time-series-analysis-and-forecasting#Models-Used-For-Time-Series-Forecasting-)
+* 
 # Kaggle most strategies used by competetions grandmasters
 - [Text Classification: All Tips and Tricks from 5 Kaggle Competitions](https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions)
 - [Mastering Kaggle Competitions: Strategies, Techniques, and Insights for Success](https://www.analyticsvidhya.com/blog/2024/09/mastering-kaggle-competitions/)
+- [How to Improve ML Model Performance [Best Practices From Ex-Amazon AI Researcher]](https://neptune.ai/blog/improving-ml-model-performance)
