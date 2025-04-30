@@ -32,4 +32,5 @@
 # Kaggle most strategies used by competetions grandmasters
 - [Text Classification: All Tips and Tricks from 5 Kaggle Competitions](https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions)
 - [Mastering Kaggle Competitions: Strategies, Techniques, and Insights for Success](https://www.analyticsvidhya.com/blog/2024/09/mastering-kaggle-competitions/)
-- [How to Improve ML Model Performance [Best Practices From Ex-Amazon AI Researcher]](https://neptune.ai/blog/improving-ml-model-performance)
+- [How to Improve ML Model Performance Best Practices From Ex-Amazon AI Researcher](https://neptune.ai/blog/improving-ml-model-performance)
+- [Top 10 Tips for Success in Kaggle Competitions](https://www.kaggle.com/discussions/getting-started/417999)
